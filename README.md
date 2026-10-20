@@ -205,7 +205,7 @@ Potential extensions to this project include:
 
 ## 👩‍💻 Author
 
-**Srishti Kukreti]**
+**Srishti Kukreti**
 
 B.Tech Information Technology Student 
 
